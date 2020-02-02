@@ -1,6 +1,6 @@
 # learning journal
 
-##grown mind's people who belives in them selfs
+## grown mind's people who belives in them selfs
 #three thing keep me grown mind
 
 **keep trust in self**
@@ -9,3 +9,8 @@
 
 #about markdown
 **this make the line bold
+##largest
+####smallest
+
+
+
