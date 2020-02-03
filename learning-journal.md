@@ -1,30 +1,14 @@
 # learning journal
 
-## grown mind's people who belives in them selfs
-#three thing keep me grown mind
+Here we have Markdown summary :
+ا 
+# we can use # for heading h1
+## this the largest 
+#### and thesmallest 
 
-**keep trust in self**
-
-*should not still in same level
-
-*i can do what i love
-
-#about markdown
-
-**this make the line bold
-## largest
-#### smallest
-
-
-# GitHub
-
--github can keep my project
-
--creat your website
-
--edit 
-
--share it 
-
-
-
+# for text style we can make different shape :
+** bold **
+or __ bold__
+¬¬mistake¬¬
+*** bold+italic ***
+^ Qouting code by ^ 
