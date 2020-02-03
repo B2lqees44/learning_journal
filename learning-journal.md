@@ -25,3 +25,15 @@ share your image using ![]() :
  link 
  
  [learn](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+## Lists
+## You can make an unordered list by preceding one or more lines of text with - or *.
+**another EX**
+
+favourit food :
+- pizza
+
+-burger
+
+## or we can order it by  number like this :
+1.pizza
